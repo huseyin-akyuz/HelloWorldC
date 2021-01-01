@@ -5,6 +5,7 @@ int* diziptr;
 diziptr = d;
   for (int i = 0; i < 20; i++) {
 	d[i] = rand();
+	//yorum
 
 	printf("%d\n", d[i]);
 
